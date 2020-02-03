@@ -4,12 +4,16 @@ Initial Function()
 {
   //Sample Code
 }
+<<<<<<< HEAD
 Feature_2()
 {
 //code added by sarika
 }
+=======
 Security_Patch()
 {
 	//Security patchby master
 }
+
+>>>>>>> master
 }
